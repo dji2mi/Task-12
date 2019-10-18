@@ -1,0 +1,25 @@
+{
+  "name": "web-services",
+  "version": "1.0.0",
+  "description": "Test web-services",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "rest",
+    "service"
+  ],
+  "author": "Volha Shut",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "fetch": "^1.1.0",
+    "mocha": "^5.0.0",
+    "mochawesome": "^3.0.2",
+    "node-fetch": "^2.6.0",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  }
+}

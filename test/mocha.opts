@@ -1,0 +1,3 @@
+--reporter mochawesome 
+--reporter-options reportDir=reports,reportFilename=serviceTests
+--timeout 1000

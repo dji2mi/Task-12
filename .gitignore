@@ -1,0 +1,8 @@
+# Webstorm/Idea config files
+.idea
+*.iml
+.vscode/
+
+# Project specyfic
+node_modules
+reports/
